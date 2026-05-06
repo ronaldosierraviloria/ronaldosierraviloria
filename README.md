@@ -1,5 +1,5 @@
 <a href="https://vedangdhuri.github.io/">
-  <img src="https://raw.githubusercontent.com/vedangdhuri/images/refs/heads/main/github-header-banner-2.png" alt="Header" width="1011" height="299">
+  <img src="https://github.com/ronaldosierraviloria/ronaldosierraviloria/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner.png" alt="Header" width="1011" height="299">
 </a>
 
 <h1 align="center"> Hi 👋, I'm Vedang Dhuri </h1>
