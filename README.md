@@ -10,17 +10,26 @@
 </h3>
 <h3 align="left">👨🏻‍💻I am known for my analytical approach, structured thinking, collaborative work, and commitment to continuous improvement, adding value through data-driven solutions. I am constantly learning to further develop my skills and acquire new ones.</h3>
 
+<h2 align="center"> 💼 Experience </h2>
+
+<h3 align="left"><stronge>Power Apps & Power Automate Intern</stronge></h3>
+<h4 align="left"><ul><li> As a Power Apps and Power Automate intern at Springer Capital, I will learn how to create internal applications, automated flows, and connect SharePoint/Excel/Teams, as well as debug flow issues. I will also learn about 
+low-code application architecture, workflow automation, data integration, and business process automation..</li></ul> </h4>
+<h4 align="left"><ul><li>Springer Capital - Remoto</li></ul> </h4>
+<h4 align="left">Feb. 2026 - May. - 2026</h4>
+
 <h1 align="center">Contact</h1>
-<p align="center">
+<p>Email:</p><p>sierraviloria10@gmail.com</p>
   <a href="">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee" />
   </a>
-</p>
-
-
+  <a href="">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+  </a>
+  
 <h1 align="center"> 🛠️ Skills </h1>  
 <table align="center">
   <tr>
@@ -64,8 +73,4 @@
   </tr>
 </table>
 
-<h2 align="center"> 💼 Experience </h2>
 
-<h3 align="left"><stronge> Internships in React & IoT</stronge></h3>
-<h4 align="left"><ul><li> Worked on frontend development using React.</li></ul> </h4>
-<h4 align="left"><ul><li> Implemented and tested IoT mini-projects.</li></ul> </h4>
